@@ -4,8 +4,7 @@
  */
 
 'use strict';
-// 第一位加载
-// console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>','0');
+
 var yog = require('yog2-kernel');
 
 var app = yog.bootstrap({
