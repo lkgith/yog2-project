@@ -1,1 +1,1 @@
-# yog2-node
+# yog2-project
