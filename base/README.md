@@ -7,5 +7,5 @@ npm i -g yog2
 yog2 init project
 cd base
 npm i --save
-
+npm i bluebird --save
 ```
